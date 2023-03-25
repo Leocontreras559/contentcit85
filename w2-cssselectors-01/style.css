@@ -1,0 +1,11 @@
+
+a:visited {
+
+color: firebrick;
+  }
+  a:hover {
+    color: cyan;
+  }
+  a:active {
+  background-color: indianred;
+  }
