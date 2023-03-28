@@ -1,0 +1,37 @@
+/**first**/
+@page :first {
+    margin-left: 50%;
+    margin-top: 50%;
+  }
+  p {
+    page-break-after: always;
+  }
+  /**last nth-child(anb) and nth-child(n)**/
+  li:nth-last-child(-n + 6) {
+    border: 1mm solid rgb(21, 139, 114);
+    margin-top: 01mm;
+    margin-right: 87%;
+}
+
+/**odds and evens**/
+#evenodd :nth-child(even) {
+    background: rgb(128, 0, 0);
+    font-size: 19px;
+    color:white;
+}
+#evenodd :nth-child(odd) {
+    background: rgb(255, 23, 224);
+    font-size: 19px;
+    color:white;
+}
+
+/**only-child**/
+
+#only:only-child {
+margin: 6px;
+color: brown;
+}
+
+#only2:only-child {
+    text-decoration: underline;
+}

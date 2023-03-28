@@ -1,0 +1,10 @@
+#well:first-letter {
+    font-size: 120px;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+#hello:first-line {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
