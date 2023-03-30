@@ -1,0 +1,25 @@
+.par{
+    color: darkorchid;
+    width: 23%;
+    height: 19mm;
+    border: 12px;
+}
+.par-2{
+    color: royalblue;
+    width: 20%;
+    height: 7cm;
+    border: 10px;  
+}
+.par-3{
+    color: green;
+    width: 70%;
+    height: 1cm;
+    border: 9cm;
+}
+#divvy{
+    color: green;
+    border: 15cm;
+    width: 40%;
+    height: 5px;
+    border: 10px;
+}
