@@ -1,0 +1,31 @@
+.serif{
+    font-style: italic;
+    font-family: serif;
+    text-transform: uppercase;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis
+}
+#sans{
+    font-style: italic;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis
+}
+h1{
+    text-shadow: 2px 2px 4px black
+}
+p:link{
+    text-decoration: none;
+}
+p:visited { 
+    text-decoration: none; }
+p:hover { 
+    text-decoration: none; }
+p:active { 
+    text-decoration: none; }
+    p{
+        text-indent: 10px;
+    }
