@@ -1,0 +1,168 @@
+/*document 1*/
+.doc1{
+    background-color: lightgrey;
+}
+#headone{
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    border: 9px solid white;
+}
+#artone{
+    background-color: darkgrey;
+    margin-right: 70%;
+    
+}
+#asideone{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 10px;
+    float: right;
+    
+    border: 9px solid white;
+    font-size: larger;
+}
+
+#footone{
+    position: fixed;
+left: 0;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: larger;
+    border: 9px solid white;   
+}
+
+/*document 2*/
+#bodw{
+border: 250px;
+}
+
+#headw{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    border: 1px solid black;
+	padding: 30px 60px;
+}
+#navw{
+    text-align: center;
+    border: 1px solid black;
+	padding: 10px 40px;
+}
+#sectw{
+    text-align: left;
+    font-size: larger;
+    padding-left: 5px;
+    width: 25%;
+    border: 1px solid black;
+	padding: 30px 100px;
+}
+#artw{
+    text-align: left;
+    font-size: larger;
+    border: 1px solid black;
+	padding: 30px 77px;
+    width: 30%;
+}
+#asidew{
+width: 36%;
+font-size: x-large;
+font-style: italic;
+float:  right;
+bottom: 0;
+position: relative;
+border: 1px solid black;
+padding: 66px 81px;
+bottom: 300px;
+}
+#footw{
+position: fixed;
+left: 0;
+    bottom: 0;
+    text-align: center;
+    width: 93%;
+    font-size: larger;
+    border: 1px solid black;
+	padding: 40px 90px;
+}
+/*Document 3*/
+#headb{
+    text-align: center;
+    background-color: red;
+    color: white;
+    height: 60px;
+    margin-top: -20px;
+}
+#navb{
+    text-align: center;
+    background-color: orange;
+    color: white;
+height: 60px;
+margin-top: -21px;
+}
+#sectionb{
+    background-color: orange;
+   margin-top: -22px;
+    width: 30%;
+    color: white;
+    padding-left: 15px;
+    font-size: larger;
+    background-position: left;
+    
+
+}
+#articleb{
+    background-color: greenyellow;
+    margin-right: 10px;
+
+}
+#aisdeb{
+    text-align: right;
+    background-color: lightseagreen;
+    color: white;
+    margin-left: 400px;
+    font-size: x-large;
+    width: 30%;
+float: right;
+
+margin-top: -200px;
+}
+#footb{
+    text-align: center;
+    background-color: purple;
+    color: white;
+    height: 60px;
+    font-size: x-large;
+}
+/*Document 4*/
+.headerv1{
+    background-color: aqua;
+
+}
+.nav1{
+    float: left;
+    background-color: yellow;
+    width: 21%;
+    height: 300px;
+}
+.onlyart{
+text-align: center;
+    background-color: greenyellow;
+    width: 50%;
+    margin-left: 200px;
+    height: 300px;
+}
+.aside1{
+float: right;
+    background-color: orange;
+    width: 28%;
+    margin-top: -300px;
+    font-size: larger;
+    height: 300px; 
+
+}
+.finalfooter{
+    height: 66px;
+    background-color: aqua;
+}
