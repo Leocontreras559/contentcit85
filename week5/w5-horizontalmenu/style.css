@@ -1,0 +1,13 @@
+.horimenu {
+    margin: 10px;
+    width: 600px;
+
+}
+.horimenu li {
+    float:left;
+	margin-left: 12%;
+
+}
+li:hover{
+    background-color: yellow;
+}
