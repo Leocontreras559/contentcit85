@@ -1,0 +1,120 @@
+/*flex row 1*/
+.flexrow1{
+    display: flex;
+    flex-direction: row;
+justify-content: left;
+align-items: flex-start;
+}
+.flexrow1>div{
+border: 1px solid black;
+background-color: orange;
+    font-weight: bold;
+font-size: x-large;
+}
+/*flex row 2*/
+.flexrow2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+.flexrow2>div{
+    border: 1px solid black;
+background-color: orange;
+    font-weight: bold;
+    font-size: x-large;
+}
+/*flex row 3*/
+.flexrow3{
+    display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: normal;
+
+}
+.flexrow3>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;
+}
+/*flex row 4*/
+.flexrow4{
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+}
+.flexrow4>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;
+}
+/*flex row 5*/
+.flexrow5{
+    display: flex;
+    flex-direction: row-reverse;
+  justify-content: center;
+   align-items:  normal;
+    
+}
+.flexrow5>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;  
+        
+}
+/*flex row 6*/
+.flexrow6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+}
+.flexrow6>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;  
+}
+/*flex row 7*/
+.flexrow7{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.flexrow7>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large; 
+}
+/*flex row 8*/
+.flexrow8{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.flexrow8>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large; 
+}
+/*flex row 9*/
+.flexrow9{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:  start;
+   align-items: flex-start;
+}
+.flexrow9>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large; 
+}

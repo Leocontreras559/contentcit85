@@ -1,0 +1,123 @@
+/*flex column 1*/
+.flexc1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+.flexc1>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large; 
+}
+/*flex column 2*/
+.flexc2{
+    display: flex;
+
+    flex-direction: column-reverse;
+    justify-content: right;
+   flex: auto;
+   align-items: center;
+   justify-content: center;
+}
+.flexc2>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;    
+}
+/*flex col 3*/
+.flexc3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.flexc3>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;    
+}
+/*flex col 4*/
+.flexc4{
+display: flex;
+flex-direction: column-reverse;
+align-items: end;
+justify-content: flex-start;
+flex: auto;
+}
+.flexc4>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;    
+}
+/* flex col 5 */
+.flexc5{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.flexc5>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large; 
+}
+/*flex col 6*/
+.flexc6{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-around;
+}
+.flexc6>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;   
+}
+/* flex col 7*/
+.flexc7{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: stretch;
+    justify-content: center;
+}
+.flexc7>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;   
+}
+/* flex col 8*/
+.flexc8{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-items: left;
+}
+.flexc8>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;   
+}
+/* flex col 9*/
+.flexc9{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: flex-end;
+}
+.flexc9>div{
+    border: 1px solid black;
+    background-color: orange;
+        font-weight: bold;
+        font-size: x-large;   
+}
