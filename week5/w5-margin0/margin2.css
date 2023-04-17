@@ -1,0 +1,32 @@
+.red{
+    background-color: red;
+    width: 120px;
+    height: 68px;
+    margin: 0 auto;
+}
+.blue{
+    background-color: blue;
+    width: 120px;
+    height: 68px;
+    margin: 0 auto;
+}
+.yellow{
+    background-color: yellow;
+    width: 120px;
+    height: 68px;
+    margin: 0 auto;
+
+}
+.green{
+    background-color: green;
+    width: 120px;
+    height: 68px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+body{
+margin-top: 200px;
+margin-right: 120px;
+margin-left: 120px;
+border: 2px dashed blue;
+}

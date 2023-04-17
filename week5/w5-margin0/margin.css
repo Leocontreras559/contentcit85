@@ -1,0 +1,24 @@
+.surf{
+    margin: 0 auto;
+    width: 232px;
+  height: 126px;
+  display: block;
+  border-radius: 96%;
+ border: 5px solid yellow;
+}
+body{
+    background-color: blue;
+}
+div{
+    background-color: rgb(64, 197, 108);
+    width: 799px;
+    height: 620px;
+    margin: 0 auto;
+    display: block;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: red;
+}
