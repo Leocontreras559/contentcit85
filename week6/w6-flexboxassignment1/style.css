@@ -1,0 +1,26 @@
+.hello{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+  flex-grow: 1;
+    font-size: large;
+    font-weight: bold;
+    align-items: center;
+    justify-content: space-evenly;
+background-color: orangered;
+margin: 5px;
+margin-right: 94%;
+}
+.hi{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+  flex-grow: 2;
+    font-size: large;
+    font-weight: bold;
+    align-items: center;
+    justify-content: space-evenly;
+background-color: orangered;
+margin: 5px;
+margin-right: 94%;
+}
