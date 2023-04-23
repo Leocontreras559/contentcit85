@@ -1,0 +1,27 @@
+.allbox{
+    border: 5px solid red;
+        display: flex;
+
+        align-content: flex-start;
+        height: 250px;}
+.box1{ 
+background-color: rgb(32, 60, 102);
+
+}
+.box2{
+    background-color: rgb(30, 75, 223);
+    flex-grow: 1;
+
+}
+.box3{
+    background-color: lightblue;
+    flex-grow: 1;
+
+    
+}
+.box4{
+    background-color: lightgray;
+    flex-grow: 2;
+
+
+}
