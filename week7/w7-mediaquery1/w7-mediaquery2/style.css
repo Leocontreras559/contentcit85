@@ -1,0 +1,34 @@
+@media screen and (max-width: 1200px) {
+    .main{
+        display: flex;
+        flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    }
+    .one{
+
+        padding: 10px;
+    border: 2px solid orangered;
+    background-color: orangered;
+    }
+    .two{
+        padding: 10px;
+        border: 2px solid lightblue;
+        background-color: lightblue;
+    }
+    .three{
+        padding: 10px;
+        border: 2px solid lightgreen;
+        background-color: lightgreen;
+    }
+    .four{
+        padding: 10px;
+        border: 2px solid yellow;
+        background-color: yellow;
+    }
+    .five{
+        padding: 10px;
+        border: 2px solid purple;
+        background-color: purple;
+    }
+  }
